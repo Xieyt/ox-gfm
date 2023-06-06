@@ -27,3 +27,5 @@ add this snippet to your Emacs configuration:
 (eval-after-load "org"
   '(require 'ox-gfm nil t))
 ```
+TODO
+- [ ] Add TOC heading info
